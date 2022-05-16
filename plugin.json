@@ -1,0 +1,13 @@
+{
+    "preload": "index.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "uuid",
+            "explain": "随机生成一个 UUID",
+            "cmds": [
+                "UUID"
+            ]
+        }
+    ]
+}
